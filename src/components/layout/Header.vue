@@ -10,7 +10,7 @@
       <div class="container">
         <div class="header-content">
           <router-link to="/" class="logo">
-            <img src="https://myhomestyle.pk/cdn/shop/files/Untitled_design_-_2025-01-21T112044.379-modified_7f66847a-2cbb-4d2f-8197-3d018806eead.png?v=1737440854&width=600" alt="myhomestyle.pk">
+            <img src="../../assets/loopm.png" alt="loopm">
           </router-link>
 
           <nav class="main-nav">

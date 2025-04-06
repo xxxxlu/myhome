@@ -1,9 +1,5 @@
 <template>
   <div class="home-page">
-    <!-- Hero Banner -->
-    <section class="hero-banner">
-      <img src="https://myhomestyle.pk/cdn/shop/files/Beatrix_Furniture_1.png?v=1738309661&width=1100" alt="Home Style Sale">
-    </section>
 
     <!-- All Products -->
     <section class="featured-collection">
