@@ -1,0 +1,26 @@
+{
+  "name": "myhomestyle-clone",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "format": "prettier --write src/"
+  },
+  "dependencies": {
+    "sass": "^1.86.3",
+    "vue": "^2.7.15",
+    "vue-router": "^3.6.5",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.3.3",
+    "eslint": "^9.22.0",
+    "eslint-plugin-vue": "^10.0.0",
+    "prettier": "^3.5.3",
+    "vite": "^5.2.2"
+  }
+}
