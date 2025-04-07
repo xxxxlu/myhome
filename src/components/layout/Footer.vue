@@ -18,7 +18,7 @@
           <img src="../../assets/Frame.png" alt="" style="width: 100px;height: 80px;">
         </div>
         <div class="copyright">
-          <p>Copyright © {{ new Date().getFullYear() }} | Powered by Data Network Solutions</p>
+          <p>Copyright © {{ new Date().getFullYear() }} | Powered by Data Network Solutions (SMC-Private) Limited</p>
         </div>
       </div>
     </div>
