@@ -18,7 +18,7 @@
           <img src="../../assets/Frame.png" alt="" style="width: 100px;height: 80px;">
         </div>
         <div class="copyright">
-          <p>Copyright © {{ new Date().getFullYear() }} | Powered by Data Network Solutions (SMC-Private) Limited</p>
+          <p>Copyright © 2025 loopm Store. Powered by DATA TECH SOLUTIONS SMC PRIVATE LIMITED2</p>
         </div>
       </div>
     </div>
